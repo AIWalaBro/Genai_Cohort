@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# gitignore file for Python projects
+.env
+
+venv_cohort/
+# The virtual environment directory is often named 'venv', 'env', or similar.
+
 # Distribution / packaging
 .Python
 build/
